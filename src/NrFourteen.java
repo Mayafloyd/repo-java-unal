@@ -11,3 +11,4 @@ public class NrFourteen {
         System.out.println("El cubo de " + num + " es " + cubo);
     }
 }
+
