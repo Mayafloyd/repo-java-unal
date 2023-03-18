@@ -17,9 +17,5 @@ public class ExerciseTwentyTwo_Cap4 {
         }else{
             System.out.println("name: "+ name + " and monthly salary: " + monthlySalary);
         }
-
-
     }
-
-
 }

@@ -1,4 +1,3 @@
-import java.sql.SQLOutput;
 import java.util.Scanner;
 
 public class ExerciseTen_Cap4 {
@@ -35,7 +34,4 @@ public class ExerciseTen_Cap4 {
             return constantValue;
         }
     }
-
-
-
 }
