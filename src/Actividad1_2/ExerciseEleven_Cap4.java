@@ -1,3 +1,5 @@
+package Actividad1_2;
+
 import java.util.Scanner;
 public class ExerciseEleven_Cap4 {
     public static void main(String args[]) {

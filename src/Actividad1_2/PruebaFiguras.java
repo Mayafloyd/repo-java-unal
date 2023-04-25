@@ -1,3 +1,5 @@
+package Actividad1_2;
+
 public class PruebaFiguras {
     public static void main(String args[]) {
         Circulo figura1 = new Circulo(2);

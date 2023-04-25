@@ -1,3 +1,5 @@
+package Actividad1_2;
+
 public class TrianguloRectangulo {
 
         int base;

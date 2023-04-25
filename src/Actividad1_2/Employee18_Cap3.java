@@ -1,3 +1,5 @@
+package Actividad1_2;
+
 public class Employee18_Cap3 {
     public static void main(String args[]) {
         Employee18_Cap3 newEmployee = new Employee18_Cap3(

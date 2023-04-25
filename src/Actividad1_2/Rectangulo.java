@@ -1,7 +1,8 @@
-public class Rectangulo {
-    int base; // Atributo que define la base de un rectángulo
-    int altura; // Atributo que define la altura de un rectángulo
+package Actividad1_2;
 
+public class Rectangulo {
+    int base;
+    int altura;
     Rectangulo(int base, int altura) {
         this.base = base;
         this.altura = altura;
