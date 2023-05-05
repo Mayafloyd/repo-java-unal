@@ -10,11 +10,11 @@ public class TrianguloRectangulo {
             this.altura = altura;
         }
 
-        double calcularArea() {
+        public double calcularArea() {
             return (base * altura / 2);
         }
 
-        double calcularPerímetro() {
+        public double calcularPerímetro() {
             return (base + altura + calcularHipotenusa());
         }
         double calcularHipotenusa() {

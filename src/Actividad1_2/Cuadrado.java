@@ -8,11 +8,11 @@ public class Cuadrado {
             this.lado = lado;
         }
 
-        double calcularArea() {
+        public double calcularArea() {
             return lado*lado;
         }
 
-        double calcularPerímetro() {
+        public double calcularPerímetro() {
             return (4*lado);
         }
 }
