@@ -1,4 +1,4 @@
-package ClaseAbstracta;
+package Actividad4.ClaseAbstracta;
 
 public class Fraccion extends Numerica {
     private int numerador;

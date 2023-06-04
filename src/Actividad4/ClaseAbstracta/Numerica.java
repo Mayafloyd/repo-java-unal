@@ -1,4 +1,4 @@
-package ClaseAbstracta;
+package Actividad4.ClaseAbstracta;
 
 public abstract class Numerica {
     public abstract String toString();

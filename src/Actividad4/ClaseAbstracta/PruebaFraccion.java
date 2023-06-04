@@ -1,4 +1,4 @@
-package ClaseAbstracta;
+package Actividad4.ClaseAbstracta;
 
 public class PruebaFraccion {
     public static void main(String[] args) {
